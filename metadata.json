@@ -1,0 +1,6 @@
+{
+  "name": "Hand Gesture Color Visualizer",
+  "description": "An interactive digital art experience that uses your webcam to detect hand gestures in real time and control dynamic fluid visualizations, smoke trails, and responsive particle effects.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
